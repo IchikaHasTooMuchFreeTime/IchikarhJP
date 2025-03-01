@@ -17,16 +17,16 @@ function onPlayerReady(event) {
 
 
 const noButtonMessages = [
-  "Are you sure? 🥺",
-  "Pretty please? 💖",
-  "I'll give you cookies! 🍪",
-  "Think about it again! 🤔",
-  "You're breaking my heart! 💔",
-  "Just say yes! 😭",
-  "I'll be really sad... 😢",
-  "I'll make you pancakes! 🥞",
-  "You're my only hope! 🌟",
-  "I'll write you a poem! 📜",
+  "本当に？ 🥺",
+  "お願い！ 💖",
+  "クッキーあげるよ！🍪",
+  "もう一回考えて！🤔",
+  "心が砕けそう！💔",
+  "お願いだからYESって言って！😭",
+  "本当に悲しくなっちゃうよ、、、😢",
+  "パンケーキ作ってあげるよ！🥞",
+  "君だけが希望だよ！🌟",
+  "詩を書いてあげる！📜",
 ];
 
 
